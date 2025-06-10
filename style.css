@@ -82,6 +82,8 @@ footer {
     text-align:center;
 }
 .center-image{
+    max-width:100%;
+    height:auto;
     display:block;
     margin:0 auto 1em;
 }
