@@ -100,8 +100,8 @@ th,td{
 th{
     background-color: #ffffffce;
 }
-.dark-mode .grid-skills div{
-  background-color:#333；
-  color:#f0f0f0;
-  border:1px solid #555;
+.dark-mode .grid-skills div {
+  background-color: #333;
+  color: #f0f0f0;
+  border: 1px solid #555;
 }
